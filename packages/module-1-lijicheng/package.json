@@ -1,5 +1,5 @@
 {
-  "name": "module-1",
+  "name": "module-1-lijicheng",
   "version": "0.0.4",
   "description": "第二版",
   "main": "index.js",
@@ -13,5 +13,5 @@
     "jquery": "^3.4.1",
     "react": "^16.12.0"
   },
-  "gitHead": "7fbf93f09ade4c249af8c352a595088232eaa4d9"
+  "gitHead": "95ca0b09b06f4c64120701ea7ebc9a28ba1d2877"
 }
