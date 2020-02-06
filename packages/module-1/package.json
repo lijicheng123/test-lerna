@@ -1,7 +1,7 @@
 {
   "name": "module-1",
   "version": "0.0.1",
-  "description": "",
+  "description": "第二版",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,5 +12,6 @@
   "dependencies": {
     "jquery": "^3.4.1",
     "react": "^16.12.0"
-  }
+  },
+  "gitHead": "7fbf93f09ade4c249af8c352a595088232eaa4d9"
 }
